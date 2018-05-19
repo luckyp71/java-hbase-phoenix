@@ -1,6 +1,6 @@
 <h1>Accessing HBase via Phoenix and Java</h1>
 
-<p> This repository is a very simple example on how to access HBase and perform CRUD operations via Phoenix and Java.</p>
+<p> This repository is a simple example on how to access HBase and perform CRUD operations via Phoenix and Java.</p>
 <p> Since I use pseudo distributed mode on my HBase's setup, so that hadoop and zookeeper are needed. If your HBase's setup is in standalone one, you don't need install and setup that stack</p>
 
 <h3>Prerequisites</h3>
